@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Irfan Sabrian</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif">
+<img align="right" alt="Coding" width="400" z-index="5" src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif">
 
 - 👨‍💻 How to reach me **Irfansabrian34@gmail.com**
 
