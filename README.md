@@ -22,7 +22,7 @@
                 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
             </p>
         </div>
-        <img align="right" width="400" style="border-bottom: none;" src="https://github-readme-stats.vercel.app/api/top-langs?username=irfansabrian&show_icons=true&locale=en&layout=compact" alt="irfansabrian">
+        <img align="right" width="350" style="border-bottom: none;" src="https://github-readme-stats.vercel.app/api/top-langs?username=irfansabrian&show_icons=true&locale=en&layout=compact" alt="irfansabrian">
         <div style="display: inline-block; width: 50%; vertical-align: top;">
             <h4>Backend Development</h4>
             <p>
@@ -40,6 +40,7 @@
                 <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
             </p>
         </div>
+            <img align="right" width="450" style="border-bottom: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=irfansabrian&" alt="irfansabrian">
         <div style="display: inline-block; width: 50%; vertical-align: top;">
             <h4>Database</h4>
             <p>
@@ -48,7 +49,6 @@
                 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
             </p>
         </div>
-            <img align="right" width="450" style="border-bottom: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=irfansabrian&" alt="irfansabrian">
     </div>
     <div align="left" width="100%">
         <div style="display: inline-block; width: 50%; vertical-align: top;">
