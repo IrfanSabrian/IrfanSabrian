@@ -10,7 +10,7 @@
 - 👨‍🎓 I’m a D3 Informatics student from **Politeknik Negeri Pontianak, Indonesia**
 - 💻 I build web apps with **Tailwind CSS**, **Node.js**, **Bootstrap**, and **Native JS**
 - 📫 Reach me at **irfansabrian34@gmail.com**
-- 🌐 Portfolio: [irfansabrian.vercel.app](https://irfansabrian.vercel.app)
+- 🌐 Portfolio: [portoirfansabrian.vercel.app](https://portoirfansabrian.vercel.app)
 - 🎯 Passionate about learning & creating cool digital experiences
 
 ---
