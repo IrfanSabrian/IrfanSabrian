@@ -1,29 +1,53 @@
 <h1 align="center">Hi 👋, I'm Irfan Sabrian</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Mahasiswa+D3+%7C+Web+Developer;Love+Tailwind%2C+Node.js%2C+Bootstrap+%26+Native;Always+Learning+New+Things+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=460&lines=Web+GIS+Enthusiast+%7C+D3+Informatics+Student;Mapping+the+future+one+line+of+code+at+a+time;Next.js%2C+Leaflet%2C+Dijkstra%2C+Tailwind+%F0%9F%94%A5;Always+debugging+life+and+code" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 👨‍🎓 I’m a D3 Informatics student from **Politeknik Negeri Pontianak, Indonesia**
-- 💻 I build web apps with **Tailwind CSS**, **Node.js**, **Bootstrap**, and **Native JS**
-- 📫 Reach me at **irfansabrian34@gmail.com**
+- 🎓 Final year D3 Informatics student at **Politeknik Negeri Pontianak**
+- 🗺️ Currently developing a **Web GIS app** for my final project – [PointMap](https://github.com/IrfanSabrian/PointMap)
+- 💻 Tech stack: **Next.js**, **Leaflet**, **Tailwind CSS**, **DijkstraJS**, **ESRI Leaflet**
+- 🎨 Also familiar with **Adobe Illustrator**, **Photoshop**, and **ArcGIS Pro**
+- 📫 Reach me via email: **irfansabrian34@gmail.com**
 - 🌐 Portfolio: [portfolioirfans.vercel.app](https://portfolioirfans.vercel.app/)
-- 🎯 Passionate about learning & creating cool digital experiences
+- 🧠 I love building spatially-aware web apps & exploring new tech
 
 ---
 
-## 🚀 My Tech Stack
+## 🚀 Tech Stack Highlights
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
+**Frontend & Styling**
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Slick Carousel](https://img.shields.io/badge/-Slick%20Carousel-333?style=flat)
+
+**Mapping & GIS**
+![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat&logo=leaflet)
+![ESRI Leaflet](https://img.shields.io/badge/-ESRI%20Leaflet-0078D4?style=flat)
+![Dijkstra.js](https://img.shields.io/badge/-Dijkstra.js-FCC419?style=flat)
+
+**Tools & Dev**
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+
+---
+
+## 🧭 Project Spotlight
+
+### 📍 [PointMap](https://github.com/IrfanSabrian/PointMap) – Web GIS App
+
+🚧 An interactive campus map built with:
+- 📌 **Leaflet + DijkstraJS** for route calculation
+- 🧠 **Custom Graph Algorithms** for shortest path
+- 🎨 Responsive UI with **Tailwind CSS** & **Next.js**
+- 🗂️ GeoJSON-powered dynamic data & floor-level routing
+
+> "Not just a map — it's a spatial experience."
 
 ---
 
@@ -57,4 +81,4 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
-<p align="center"><i>Thanks for visiting my profile!</i></p>
+<p align="center"><i>Thanks for stopping by — happy coding! 🚀</i></p>
