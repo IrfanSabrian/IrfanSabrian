@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Irfan Sabrian</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=460&lines=Web+GIS+Enthusiast+%7C+D3+Informatics+Student;Mapping+the+future+one+line+of+code+at+a+time;Next.js%2C+Leaflet%2C+Dijkstra%2C+Tailwind+%F0%9F%94%A5;Always+debugging+life+and+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=700&lines=Web+GIS+Enthusiast+%7C+D3+Informatics+Student;Mapping+the+future+one+line+of+code+at+a+time;Next.js%2C+Leaflet%2C+Dijkstra%2C+Tailwind+%F0%9F%94%A5;Always+debugging+life+and+code" alt="Typing SVG" />
 </p>
 
 ---
