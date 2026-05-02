@@ -29,14 +29,14 @@ These are the projects that best describe what I am focused on now. Some are pri
 
 | Project | Visibility | What it represents | Main stack |
 | --- | --- | --- | --- |
-| `Yachze-portfolio` | Private | Interactive portfolio direction with map/editor-style experience and modern Next.js setup. | Next.js 16, React 19, TypeScript, Tailwind CSS 4, Vitest |
-| `Shiptrack` | Private | Ship-repair monitoring system with role dashboards, technician flow, customer progress transparency, and proposal/documentation work. | Laravel 13, PHP 8.3, Blade, Tailwind CSS 4, Vite |
-| `PetaVerse` | Private | Map-ordering product with catalog, quote/order flow, payment status, admin operations, queue direction, and Python GIS runner contract. | Next.js, React, TypeScript, Express, PostgreSQL, PostGIS |
-| `Kpn-Fast-Future-Accurate-Smart-Tender-` | Private | Desktop procurement automation app for AI-assisted document generation, templates, sheets, docs, drive, PDFs, and releases. | Electron, Nuxt/Vue, Node.js, Express, PostgreSQL, Google APIs, AI SDKs |
-| `MyMascot` | Private | Desktop mission-control app for local assistant/runtime workflows and multi-channel agent switching. | Tauri 2, Rust, React, Vite, TypeScript |
-| [PointMap](https://github.com/IrfanSabrian/PointMap) | Public | Web GIS for campus building, room, floor-plan, and route exploration. | Next.js, React, Leaflet, ESRI Leaflet, Express, MySQL |
-| [SIMANTAP](https://github.com/IrfanSabrian/SIMANTAP) | Public | GIS-backed public infrastructure management system for road/environment data and complaints. | Nuxt, Vue, ArcGIS Core, Express, Prisma, PostgreSQL/PostGIS |
-| `Disperkim-Kubu-Raya` | Private | Government profile/information system with map content and managed media/data flow. | Nuxt, Vue, ArcGIS Core, Express, Prisma, Cloudinary |
+| `Yachze-portfolio` | Private | Interactive portfolio direction with map/editor-style experience and modern Next.js setup. | <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,typescript,tailwind,vitest" alt="Next.js React TypeScript Tailwind CSS Vitest"><br><sub>Next.js 16, React 19, TypeScript, Tailwind CSS 4, Vitest</sub> |
+| `Shiptrack` | Private | Ship-repair monitoring system with role dashboards, technician flow, customer progress transparency, and proposal/documentation work. | <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=laravel,php,tailwind,vite" alt="Laravel PHP Tailwind CSS Vite"><br><sub>Laravel 13, PHP 8.3, Blade, Tailwind CSS 4, Vite</sub> |
+| `PetaVerse` | Private | Map-ordering product with catalog, quote/order flow, payment status, admin operations, queue direction, and Python GIS runner contract. | <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,typescript,express,postgresql,postgis,python" alt="Next.js React TypeScript Express PostgreSQL PostGIS Python"><br><sub>Next.js, React, TypeScript, Express, PostgreSQL, PostGIS</sub> |
+| `Kpn-Fast-Future-Accurate-Smart-Tender-` | Private | Desktop procurement automation app for AI-assisted document generation, templates, sheets, docs, drive, PDFs, and releases. | <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=electron,nuxt,vue,nodejs,express,postgresql,googlecloud,openai" alt="Electron Nuxt Vue Node.js Express PostgreSQL Google Cloud OpenAI"><br><sub>Electron, Nuxt/Vue, Node.js, Express, PostgreSQL, Google APIs, AI SDKs</sub> |
+| `MyMascot` | Private | Desktop mission-control app for local assistant/runtime workflows and multi-channel agent switching. | <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=tauri,rust,react,vite,typescript" alt="Tauri Rust React Vite TypeScript"><br><sub>Tauri 2, Rust, React, Vite, TypeScript</sub> |
+| [PointMap](https://github.com/IrfanSabrian/PointMap) | Public | Web GIS for campus building, room, floor-plan, and route exploration. | <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,leaflet,arcgis,express,mysql" alt="Next.js React Leaflet ArcGIS Express MySQL"><br><sub>Next.js, React, Leaflet, ESRI Leaflet, Express, MySQL</sub> |
+| [SIMANTAP](https://github.com/IrfanSabrian/SIMANTAP) | Public | GIS-backed public infrastructure management system for road/environment data and complaints. | <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=nuxt,vue,arcgis,express,prisma,postgresql,postgis" alt="Nuxt Vue ArcGIS Express Prisma PostgreSQL PostGIS"><br><sub>Nuxt, Vue, ArcGIS Core, Express, Prisma, PostgreSQL/PostGIS</sub> |
+| `Disperkim-Kubu-Raya` | Private | Government profile/information system with map content and managed media/data flow. | <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=nuxt,vue,arcgis,express,prisma,cloudinary" alt="Nuxt Vue ArcGIS Express Prisma Cloudinary"><br><sub>Nuxt, Vue, ArcGIS Core, Express, Prisma, Cloudinary</sub> |
 
 ## Public Work You Can Open
 
@@ -96,10 +96,25 @@ These are the projects that best describe what I am focused on now. Some are pri
 
 ## Public GitHub Snapshot
 
-<p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=IrfanSabrian&show_icons=true&hide_border=true&theme=transparent&title_color=0f766e&text_color=334155&icon_color=2563eb">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrfanSabrian&layout=compact&hide_border=true&theme=transparent&title_color=0f766e&text_color=334155">
-</p>
+<table>
+  <tr>
+    <td align="center"><strong>26</strong><br><sub>source repos reviewed</sub></td>
+    <td align="center"><strong>16</strong><br><sub>public repositories</sub></td>
+    <td align="center"><strong>10</strong><br><sub>private/client repositories</sub></td>
+    <td align="center"><strong>9</strong><br><sub>repos pushed in 2026</sub></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><strong>Strongest recent signals</strong></td>
+    <td>TypeScript, Vue/Nuxt, Laravel/Blade, Electron/Tauri, PostgreSQL/PostGIS, GIS tooling, AI/document automation</td>
+  </tr>
+  <tr>
+    <td><strong>Language footprint</strong></td>
+    <td>PLpgSQL, JavaScript, Vue, TypeScript, Blade, HTML/CSS, Rust, PHP, Python</td>
+  </tr>
+</table>
 
 ---
 
